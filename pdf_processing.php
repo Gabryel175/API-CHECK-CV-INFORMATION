@@ -10,7 +10,7 @@
     ?>
 </head>
 <body>
-
+// !!! THIS SCRIPT IS USING INSIDE OF A WEBSITE(PHP FORMAT) FOR INSERT USER DATA IN DATABASE USIND API
 <?php 
 // Note: If you have input files large than 200kb we highly recommend to check "async" mode example.
 
